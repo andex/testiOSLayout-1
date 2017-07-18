@@ -54,14 +54,22 @@
 		559A6C261F1EAE1000C659BB /* testiOSLayout-1 */ = {
 			isa = PBXGroup;
 			children = (
-				559A6C271F1EAE1000C659BB /* AppDelegate.swift */,
+				559A6C3A1F1EAEB300C659BB /* Supporting Files */,
 				559A6C291F1EAE1000C659BB /* ViewController.swift */,
 				559A6C2B1F1EAE1000C659BB /* Main.storyboard */,
+			);
+			path = "testiOSLayout-1";
+			sourceTree = "<group>";
+		};
+		559A6C3A1F1EAEB300C659BB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				559A6C271F1EAE1000C659BB /* AppDelegate.swift */,
 				559A6C2E1F1EAE1000C659BB /* Assets.xcassets */,
 				559A6C301F1EAE1000C659BB /* LaunchScreen.storyboard */,
 				559A6C331F1EAE1000C659BB /* Info.plist */,
 			);
-			path = "testiOSLayout-1";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
