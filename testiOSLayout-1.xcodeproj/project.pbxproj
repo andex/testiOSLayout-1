@@ -310,6 +310,7 @@
 				559A6C381F1EAE1000C659BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
